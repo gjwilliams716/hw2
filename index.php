@@ -27,3 +27,7 @@
           </li>
       </ul> 
   </body>
+
+  <?php
+include "view-header.php";
+?>
