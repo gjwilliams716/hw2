@@ -26,3 +26,4 @@
             <a class="nav-link" href="get-result.php">Get Result</a>
           </li>
       </ul> 
+  </body>
