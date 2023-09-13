@@ -18,23 +18,11 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-      <a class="nav-link active" aria-current="page" href="/">Home</a>
-  </li>
-      <li class="nav-item">
-        <a class="nav-link" href="post.php">Post</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="post-result.php">Post Result</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="get.php">Get</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="get-result.php">Get Result</a>
-      </li>
-    </ul>
-  </div>
+<nav class="nav nav-pills nav-justified">
+  <a class="nav-item nav-link active" href="/">Home</a>
+  <a class="nav-item nav-link" href="post.php">Post</a>
+  <a class="nav-item nav-link" href="post-result.php">Post Result</a>
+  <a class="nav-item nav-link disabled" href="get.php">Get</a>
+  <a class="nav-item nav-link disabled" href="get-result.php">Get Result</a>
+</nav>
 </nav>
